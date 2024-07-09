@@ -1,5 +1,6 @@
 {
     "project_name": "NombreDelProyecto",
-    "author_name": "TuNombre",
+    "author_name": "Usuario",
+	"full_name":"NombreCompleto",
     "version": "0.1.0"
 }
